@@ -1,0 +1,2 @@
+#Ignore all the file which has extension as .xyz
+*.xyz
